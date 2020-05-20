@@ -1,6 +1,6 @@
 package prob06;
 
-public class Add {
+public class Mul {
 	private int a;
 	private int b;
 	
@@ -10,6 +10,6 @@ public class Add {
 	}
 	
 	public int calculate() {
-		return a + b;
+		return a * b;
 	}
 }
